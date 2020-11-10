@@ -7,7 +7,7 @@ public class array_multi_dimensional
 			
 			int[][] numbers = { {2,7,9},
 								
-								{3,6,1} 
+								{3,6,2} 
 							  }; 
 			
 			for(int i=0;i<2;i++)
