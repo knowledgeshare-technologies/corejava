@@ -16,7 +16,7 @@ public class array_multi_dimensional
 			   for(int j=0;j<3;j++)
 			   {
 				   System.out.println("Value : " + numbers[i][j]);
-				   System.out.println("This is test");
+				   System.out.println("This is testyyyyyyyyyy");
 			   }
 			   
 			}
